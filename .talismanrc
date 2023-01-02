@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: Housing+Case+Study+using+RFE (2).ipynb
+  checksum: cf4520fe9fe2c0da3f6a96e44832b34dbf521bc79ce69bd1c726cf38e4370498
+- filename: Multiple+Linear+Regression+-+Housing+Case+Study (2).ipynb
+  checksum: c6404b4403cdce0b1938509f12ad4be714d7f5fd243401132b380eb41be44bfe
+version: ""
